@@ -8,3 +8,8 @@ A Flutter screen that displays a cart page with the following features:
 
 ## Technologies Used
 - GetX state management
+
+## Video
+
+https://github.com/user-attachments/assets/8cca4fe6-b866-48a3-8f67-c3b1d9d9b680
+
